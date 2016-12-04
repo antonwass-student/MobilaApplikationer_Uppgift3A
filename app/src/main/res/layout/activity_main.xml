@@ -16,5 +16,6 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:text="50°"
-        android:textSize="50dp"/>
+        android:textSize="50dp"
+        android:id="@+id/output_text"/>
 </RelativeLayout>
